@@ -1,5 +1,5 @@
 
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master?filepath=query_sample.ipynb)
 
 # btw17_sample_scripts
 
