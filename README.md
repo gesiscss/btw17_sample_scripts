@@ -1,13 +1,14 @@
 
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master?filepath=query_sample.ipynb)
 
-# btw17_sample_scripts
+# German Federal Election 2017 Twitter Dataset Sample
 
-Scripts that use and analyze BTW2017 sample datasets.
+Don't hesitate in contacting us if you should have any questions regarding the dataset sample itself or want to work with us on the full dataset.
+
+**Contact:** mediamonitoring@gesis.org
 
 
-# installation
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master?urlpath=lab/tree/query_sample.ipynb)
 
-    pip install requirements.txt
 
-See query_sample.ipynb for starter code on querying and analyzing the sample dataset of BTW17 tweets.
+## Citing the Dataset
+If you use the data for your own research, please consider citing the following publication: *Sebastian Stier, Arnim Bleier, Malte Bonart, Fabian Mörsheim, Mahdi Bohlouli, Margarita Nizhegorodov, Lisa Posch, Jürgen Maier, Tobias Rothmund, Steffen Staab*. **Systematically monitoring social media: The case of the German federal election 2017** ([pdf](https://arxiv.org/pdf/1804.02888.pdf), [ZA6926](https://dbk.gesis.org/dbksearch/sdesc2.asp?no=6926))
