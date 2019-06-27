@@ -6,6 +6,8 @@ Don't hesitate in contacting us if you should have any questions regarding the d
 
 **Contact:** mediamonitoring@gesis.org
 
+For an interactive exploration see: [mediamonitoring.gesis.org](http://mediamonitoring.gesis.org)
+
 
 [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master?urlpath=lab/tree/query_sample.ipynb)
 
