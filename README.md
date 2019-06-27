@@ -4,6 +4,8 @@
 
 This dataset contains results from the social media monitoring of Twitter for the  [German federal election campaign 2017](https://en.wikipedia.org/wiki/2017_German_federal_election). The [project](https://arxiv.org/pdf/1804.02888.pdf) collected the tweets of political candidates and organizations and the engagement of users with these contents – retweets and @-mentions on Twitter. Finally, all messages on Twitter containing at least one keyword denoting central political topics were collected. All data was publicly available at the time of data collection. The collected data is proprietary and owned by Twitter. Due to this and with respect to privacy restrictions, only a 10k tweet sample can be provided publicly here.
 
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master?urlpath=lab/tree/query_sample.ipynb)<br/><br/>
+
 
 In addition, the DBK dataset [ZA6926](https://dbk.gesis.org/dbksearch/sdesc2.asp?no=6926) provides the following:
 
@@ -27,7 +29,6 @@ Don't hesitate in contacting us if you should have any questions regarding the d
 For an interactive exploration of the full dataset see: [mediamonitoring.gesis.org](http://mediamonitoring.gesis.org)
 
 
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master?urlpath=lab/tree/query_sample.ipynb)
 
 
 ## Citing the Dataset
