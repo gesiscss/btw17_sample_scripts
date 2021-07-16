@@ -7,7 +7,7 @@ This dataset contains results from the social media monitoring of Twitter for th
 [![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_sample_scripts/master?urlpath=lab/tree/query_sample.ipynb)<br/><br/>
 
 
-In addition, the DBK dataset [ZA6926](https://dbk.gesis.org/dbksearch/sdesc2.asp?no=6926) provides the following:
+In addition, the DBK dataset [ZA6926](https://search.gesis.org/research_data/ZA6926) provides the following:
 
 1. A list of all candidates that were considered in the project, their key attributes and the identification of their respective Twitter accounts (and Facebook pages). Candidate dataset: Full surname, all first names of the candidate; academic title and name pre- or suffixes (if they exist); URL of the first Facebook account; URL of the second Facebook account; URL of the Twitter account; candidate is placed on a party list; candidate’s place on the party list; candidate is a direct candidate in one of the constituencies; official number and official name of the constituency in which the candidate is running for a direct mandate; state; candidate is a member of the federal parliament (Bundestag); party of the candidate; sex, age (year of birth); place of residence; place of birth; profession. Additionally coded was: unique ID.
 
@@ -32,4 +32,4 @@ For an interactive exploration of the full dataset see: [mediamonitoring.gesis.o
 
 
 ## Citing the Dataset
-If you use the data for your own research, please consider citing the following publication: *Sebastian Stier, Arnim Bleier, Malte Bonart, Fabian Mörsheim, Mahdi Bohlouli, Margarita Nizhegorodov, Lisa Posch, Jürgen Maier, Tobias Rothmund, Steffen Staab*. **Systematically monitoring social media: The case of the German federal election 2017** ([pdf](https://arxiv.org/pdf/1804.02888.pdf), [ZA6926](https://dbk.gesis.org/dbksearch/sdesc2.asp?no=6926))
+If you use the data for your own research, please consider citing the following publication: *Sebastian Stier, Arnim Bleier, Malte Bonart, Fabian Mörsheim, Mahdi Bohlouli, Margarita Nizhegorodov, Lisa Posch, Jürgen Maier, Tobias Rothmund, Steffen Staab*. **Systematically monitoring social media: The case of the German federal election 2017** ([pdf](https://arxiv.org/pdf/1804.02888.pdf), [ZA6926](https://search.gesis.org/research_data/ZA6926))
