@@ -33,3 +33,11 @@ For an interactive exploration of the full dataset see: [mediamonitoring.gesis.o
 
 ## Citing the Dataset
 If you use the data for your own research, please consider citing the following publication: *Sebastian Stier, Arnim Bleier, Malte Bonart, Fabian Mörsheim, Mahdi Bohlouli, Margarita Nizhegorodov, Lisa Posch, Jürgen Maier, Tobias Rothmund, Steffen Staab*. **Systematically monitoring social media: The case of the German federal election 2017** ([pdf](https://arxiv.org/pdf/1804.02888.pdf), [ZA6926](https://search.gesis.org/research_data/ZA6926))
+
+
+---
+
+Funded partially by the German Research Foundation (DFG).
+FKZ/project number:
+[324867496](https://gepris.dfg.de/gepris/projekt/324867496?context=projekt&task=showDetail&id=324867496&).
+
